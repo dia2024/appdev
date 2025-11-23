@@ -1,0 +1,4 @@
+0 rock
+1 scissers
+2 ILoveYou
+3 paper
