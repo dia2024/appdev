@@ -1,10 +1,11 @@
-numpy ==1.23.5
-streamlit==1.46.1
-streamlit-webrtc==0.63.4
-openai==1.101.0
-scipy==1.13.1
-sounddevice==0.5.3
-opencv-python==4.12.0.88
-av==14.4.0
-keras==2.12.0
-pillow==11.3.0
+streamlit
+streamlit-webrtc
+python-dotenv
+openai
+sounddevice
+scipy
+numpy==1.23.5
+pillow
+opencv-python-headless==4.5.5.64
+av==10.0.0
+tensorflow==2.11.0
